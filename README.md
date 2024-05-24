@@ -64,3 +64,16 @@ Library Management Services adalah sebuah sistem manajemen perpustakaan yang ter
 4. Akses Swagger website melalui browser dengan URL:<br>
    a. Book Service : ```http://localhost:3001/api```<br>
    b. Author Service : ```http://localhost:3002/api```
+
+### Testing
+1. Testing dapat dilakukan melalui terminal dengan test-case yang telah dibuat untuk controller dan repository:<br>
+   a. Book Service<br>
+   ```bash
+   cd book-service
+   npm test
+   ```
+   b. Author Service<br>
+   ```bash
+   cd author-service
+   npm test
+   ```
