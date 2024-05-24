@@ -1,4 +1,5 @@
 # Library-Management-Services
+Kontributor: Husnia Munzayana
 ## Penjelasan Singkat Program
 Library Management Services adalah sebuah sistem manajemen perpustakaan yang terdiri dari beberapa microservices, yaitu `author-service` dan `book-service`. Sistem ini memungkinkan pengguna untuk mengelola data buku dan penulis, serta melakukan operasi CRUD (Create, Read, Update, Delete) pada data tersebut.
 
