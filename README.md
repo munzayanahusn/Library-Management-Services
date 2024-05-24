@@ -77,3 +77,9 @@ Library Management Services adalah sebuah sistem manajemen perpustakaan yang ter
    cd author-service
    npm test
    ```
+
+### Screenshot Perubahan Isi Database
+#### MongoDB
+![MongoDB Log](./docs/MongoDB.png)
+#### PostgreSQL
+![PostgreSQL Database](./docs/PostgreSQL.png)
