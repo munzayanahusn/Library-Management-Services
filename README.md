@@ -80,6 +80,6 @@ Library Management Services adalah sebuah sistem manajemen perpustakaan yang ter
 
 ### Screenshot Perubahan Isi Database
 #### MongoDB
-![MongoDB Log](./docs/MongoDB.png)
+![MongoDB Log](./docs/MongoDB2.png)
 #### PostgreSQL
 ![PostgreSQL Database](./docs/PostgreSQL.png)
