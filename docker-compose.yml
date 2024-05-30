@@ -29,8 +29,8 @@ services:
   postgres:
     image: postgres
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: mhsITB313
+      POSTGRES_USER: 
+      POSTGRES_PASSWORD: 
       POSTGRES_DB: library_management_service
     ports:
       - "5432:5432"
